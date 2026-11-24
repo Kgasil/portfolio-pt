@@ -1,4 +1,4 @@
-# Olá, eu sou o Kaio Gabriel 👋
+# Olá, eu sou o Kaio Gabriel 
 
 Estudante de Engenharia de Produção e Técnico em Química atuando na interseção entre **Análise de Dados**, **Automação de Processos**, **Operações/Orçamentação** e **Desenvolvimento de Software**. Busco oportunidades **home office** (e híbridas na região), com foco principal em **Analista de Dados Júnior**, e aberto também a vagas em **Processos, Operações, Finanças, Contabilidade e Programação**.
 
