@@ -6,7 +6,7 @@ Os projetos abaixo são demonstrações de portfólio e aprendizado, não sistem
 
 ---
 
-## K&G Vision — Marco 1.0 do ecossistema
+## K&G Vision — GRAAL · Marco 01
 
 [Portal institucional](https://kgasil.github.io/) · [Perfil GitHub](https://github.com/Kgasil)
 
