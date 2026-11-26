@@ -8,6 +8,11 @@ Os projetos abaixo são demonstrações de portfólio e aprendizado, não sistem
 
 ## K&G Vision — GRAAL · Marco 01
 
+[![Escudo institucional K&G Vision](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/kg-symbol.svg)](https://kgasil.github.io/)
+
+O escudo institucional preserva as quatro cores laterais e o núcleo branco; Rubedo ocupa apenas as pontas centrais superior (laranja) e inferior (dourado). / The institutional shield preserves its four side colors and white core; Rubedo occupies only the upper (orange) and lower (gold) central tips.
+
+
 [Portal institucional](https://kgasil.github.io/) · [Perfil GitHub](https://github.com/Kgasil)
 
 | Projeto | Marco público 1.0 |
