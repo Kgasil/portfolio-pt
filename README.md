@@ -6,6 +6,19 @@ Os projetos abaixo são demonstrações de portfólio e aprendizado, não sistem
 
 ---
 
+## K&G Vision — Marco 1.0 do ecossistema
+
+[Portal institucional](https://kgasil.github.io/) · [Perfil GitHub](https://github.com/Kgasil)
+
+| Projeto | Marco público 1.0 |
+| --- | --- |
+| [Genesis](https://github.com/Kgasil/genesis) | Acervo editorial de 75 PDFs privados e [biblioteca interativa](https://kgasil.github.io/genesis/biblioteca.html), sem cursos ou certificados |
+| [Vision](https://github.com/Kgasil/vision) | [Laboratório público de IA](https://kgasil.github.io/vision/), base técnica V10.2 |
+| [Aeris](https://github.com/Kgasil/aeris) | Extensão 1.0.0, 16 ferramentas; [tutorial e instalação](https://github.com/Kgasil/aeris/tree/main/extension); Desktop RC1 |
+| [Lilium](https://github.com/Kgasil/lilium) | [Web Lab 1.0](https://kgasil.github.io/lilium/#lab); Desktop v0.14.0 e Mini v0.1.1 em prévia |
+
+O marco 1.0 identifica entregas públicas distintas, não versões estáveis de todos os componentes. A K&G Vision é uma iniciativa independente, não uma empresa constituída.
+
 ## 📊 Áreas de atuação e prática
 
 * **Análise de Dados & BI:** Limpeza e cruzamento de bases, consultas **SQL**, indicadores operacionais (como *MTTR* e *downtime*) e apoio à decisão baseado em dados.
