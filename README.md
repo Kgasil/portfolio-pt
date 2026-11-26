@@ -1,5 +1,7 @@
 # Olá, eu sou o Kaio Gabriel 
 
+São José dos Campos, SP · Casado.
+
 Estudante de Engenharia de Produção na UNIVESP (conclusão prevista em dezembro de 2027) e técnico em Química Industrial, com experiência em governança de CRM, operações, orçamentação técnica e automação. Busco oportunidades júnior em dados, BI, qualidade de dados e processos, com preferência por trabalho remoto ou híbrido.
 
 Os projetos abaixo são demonstrações de portfólio e aprendizado, não sistemas comprovadamente implantados em produção. Atualmente estudo fundamentos de Python e IA aplicada.
