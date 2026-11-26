@@ -13,6 +13,7 @@ Os projetos abaixo são demonstrações de portfólio e aprendizado, não sistem
 | Projeto | Marco público 1.0 |
 | --- | --- |
 | [Genesis](https://github.com/Kgasil/genesis) | Acervo editorial de 75 PDFs privados e [biblioteca interativa](https://kgasil.github.io/genesis/biblioteca.html), sem cursos ou certificados · [Genesis Mini — complemento gratuito](https://kgasil.github.io/genesis/mini/) · [Instalar extensão / Install extension](https://kgasil.github.io/genesis/#instalar-extensao) |
+| [Rubedo](https://github.com/Kgasil/rubedo) | [Public Lab 0.4.0](https://kgasil.github.io/rubedo/), marco 01; pesquisa aplicada, simulação, otimização e experimentos reproduzíveis · [Mini Lab](https://kgasil.github.io/rubedo/mini/) · [Instalar extensão](https://kgasil.github.io/rubedo/#instalar) |
 | [Argus](https://github.com/Kgasil/argus) | [Laboratório público de IA](https://kgasil.github.io/argus/), base técnica V10.2; [Argus Mini](https://kgasil.github.io/argus/mini/) é uma amostra complementar gratuita, sem alterar o marco original. · [Instalar extensão](https://kgasil.github.io/argus/#instalar-extensao) |
 | [Aeris](https://github.com/Kgasil/aeris) | Extensão 1.0.0, 16 ferramentas; [tutorial e instalação](https://github.com/Kgasil/aeris/tree/main/extension); Desktop RC1 |
 | [Lilium](https://github.com/Kgasil/lilium) | [Web Lab 1.0](https://kgasil.github.io/lilium/#lab); Desktop v0.14.0 e Mini v0.1.1 em prévia |
