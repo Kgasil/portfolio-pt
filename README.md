@@ -4,6 +4,10 @@ Estudante de Engenharia de Produção na UNIVESP (conclusão prevista em dezembr
 
 Os projetos abaixo são demonstrações de portfólio e aprendizado, não sistemas comprovadamente implantados em produção. Atualmente estudo fundamentos de Python e IA aplicada.
 
+<!-- kg-personal-portfolio-v1 -->
+
+**KG Professional Portfolio 1.0** — [Site pessoal / Personal website](https://kgasil.github.io/portfolio/) · [Currículo / Résumé](https://kgasil.github.io/portfolio/resume.html) · [Estudos de caso / Case studies](https://kgasil.github.io/portfolio/cases.html) · [Laboratório / Interactive lab](https://kgasil.github.io/portfolio/lab.html)
+
 ---
 
 ## K&G Vision — GRAAL · Marco 01
